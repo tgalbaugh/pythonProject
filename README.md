@@ -1,4 +1,11 @@
 # pythonProject
+This is a Google Colab Notebook [click here to open](https://colab.research.google.com/drive/1fwiQZodWSqLg7VasGCBPDztDxdvEVeFx?usp=sharing)
+
+**This project is a simplified version of a project done for my work.   To protect proprietary company information several features that exist in the work project do not exist here include:**
+- Mounting Google Drive to read/write files from Shared Drives
+- Importing and Joining on BiqQuery tables via Pandas data frames
+- Uploading of the completed CSV into Google BigQuery
+
 **A one-paragraph or longer description of what your project is about. Do not skip this.**
 Import a CSV containing raw warehouse productivity data and modify it to match the required schema of the BigQuery table it will be uploaded to
 - Create an anonymized and randomized the CSV source file
