@@ -1,3 +1,5 @@
+
+
 # pythonProject
 This is a Google Colab Notebook [click here to open](https://colab.research.google.com/drive/1fwiQZodWSqLg7VasGCBPDztDxdvEVeFx?usp=sharing)
 
@@ -18,6 +20,10 @@ Import a CSV containing raw warehouse productivity data and modify it to match t
 - Export data to a CSV that can be uploaded to the BigQuery table
 
 **Relevant packages that need to be installed to run the project. This can be a requirements.txt, a config.py file, or just commands formatted neatly in markdown on your readme that say “pip install pandas” for example. But you have to specify which packages need to be installed. **
+- pip install pandas
+- pip install numpy
+- pip install datetime
+- pip install pytz
 
 **Which 3+ features you have included from the below lists to meet the requirements**
 - Read in data from a local csv, excel file, json, or any other file type. There are many ways to do this, but using Pandas read_ functions is pretty easy.
