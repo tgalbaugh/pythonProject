@@ -29,10 +29,9 @@ Import a CSV containing raw warehouse productivity data and modify it to match t
 - Read in data from a local csv, excel file, json, or any other file type. There are many ways to do this, but using Pandas read_ functions is pretty easy.
 - Use custom functions or lambdas to perform specific operations to clean or manipulate your data, return those values, then use them in other parts of your project.
 - Use at least 5 different built-in Python functions to find out something about your data. If you had a list for example, finding the length of that list with len(<list>) does tell us a little bit about the data. 
-- Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting
   
 **Any special instructions are required for the reviewer to run your project. (For example: “run python main.py” from the command line)**
+This is a Google Colab Notebook [click here to open](https://colab.research.google.com/drive/1fwiQZodWSqLg7VasGCBPDztDxdvEVeFx?usp=sharing)
   
 **Guide to using markdown for README.md files (https://guides.github.com/features/mastering-markdown/)**
-  
 **Describe the data used in the analysis in the README file.**
