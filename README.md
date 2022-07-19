@@ -24,6 +24,7 @@ Import a CSV containing raw warehouse productivity data and modify it to match t
 - pip install numpy
 - pip install datetime
 - pip install pytz
+- pip install matplotlib
 
 **Which 3+ features you have included from the below lists to meet the requirements**
 - Read in data from a local csv, excel file, json, or any other file type. There are many ways to do this, but using Pandas read_ functions is pretty easy.
