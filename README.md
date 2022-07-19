@@ -1,8 +1,4 @@
-
-
-# pythonProject
 This is a Google Colab Notebook [click here to open](https://colab.research.google.com/drive/1fwiQZodWSqLg7VasGCBPDztDxdvEVeFx?usp=sharing)
-Run the Python by clicking the "Run Cell" button
 
 **This project is a simplified version of a project done for my work.   To protect proprietary company information several features that exist in the work project do not exist here include:**
 - Mounting Google Drive to read/write files from Shared Drives
@@ -35,8 +31,10 @@ Import a CSV containing raw warehouse productivity data and modify it to match t
 - If using some format other than a notebook, make sure your README explains your project. 
   
 **Any special instructions are required for the reviewer to run your project. (For example: “run python main.py” from the command line)**
-This is a Google Colab Notebook [click here to open](https://colab.research.google.com/drive/1fwiQZodWSqLg7VasGCBPDztDxdvEVeFx?usp=sharing)
-Run the Python by clicking the "Run Cell" button
+- This is a Google Colab Notebook [click here to open](https://colab.research.google.com/drive/1fwiQZodWSqLg7VasGCBPDztDxdvEVeFx?usp=sharing)
+- Run the Python by clicking the "Run Cell" button or Runtime>Run All from the menu
+- You will get a pop up indicating this was not created by Google.   Click Run Anyway
+- A CSV is generated.  Click on the folder icon on the left of the Google Colab Notebook, look for output.csv
   
 **Guide to using markdown for README.md files (https://guides.github.com/features/mastering-markdown/)**
 **Describe the data used in the analysis in the README file.**
